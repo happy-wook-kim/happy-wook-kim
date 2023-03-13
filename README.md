@@ -15,6 +15,7 @@
 
 
 >~~[건강보험공단 감사편지](https://nhisletter.co.kr) 명절마다 운영~~  
+
 >~~[GGS](https://ggscrim.com) 서비스 종료~~  
 
 ---
@@ -22,6 +23,9 @@
 
 >[광고 효과 측정](http://addd.co.kr/document/tech)
 - 지하철 CCTV 영상 속 광고 시청자들의 성별&나이 예측 AI모델
-- 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습
+- 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습  
+
+
+>
 
 <!-- **happy-wook-kim/happy-wook-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
