@@ -11,7 +11,9 @@
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
 >[프리즈](https://drive.google.com/file/d/1coZhAECJ-jWcdyveVooiCOWWWG-ZNgPH/view?usp=share_link)  
 - 시선추적 하이퍼 캐쥬얼 게임
-- 기획 / 전체 UI 개발 / 인터페이스 로직 개발
+- 기획 / 전체 UI 개발 / 인터페이스 로직 개발  
+
+
 ~~[건강보험공단 감사편지](https://nhisletter.co.kr) 명절마다 운영~~
 ~~[GGS](https://ggscrim.com) 서비스 종료~~  
 
