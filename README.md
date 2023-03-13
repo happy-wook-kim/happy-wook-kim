@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Service Owner [밴픽 시뮬레이터](https://www.banpick.kr).
+[밴픽 시뮬레이터](https://www.banpick.kr)
 
 
 <!--
