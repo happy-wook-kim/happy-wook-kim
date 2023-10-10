@@ -12,7 +12,7 @@
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
 
 >[프리즈](https://drive.google.com/file/d/1coZhAECJ-jWcdyveVooiCOWWWG-ZNgPH/view?usp=share_link)  
-- 시선추적 하이퍼 캐쥬얼 게임 (Unity)
+- 시선추적 하이퍼 캐쥬얼 게임 ([Unity](https://unity.com/kr))
 - 기획 / 전체 UI 개발 / 인터페이스 로직 개발  
 
 
@@ -24,7 +24,7 @@
 **Engineer**  
 
 >[광고 효과 측정](http://addd.co.kr/document/tech)
-- 지하철 CCTV 영상 속 광고 시청자들의 성별&나이 예측 AI모델 (Pytorch)
+- 지하철 CCTV 영상 속 광고 시청자들의 성별&나이 예측 AI모델 ([PyTorch](https://pytorch.org/))
 - 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습  
 
 >[아트봉봉](https://bonbon.art/)
