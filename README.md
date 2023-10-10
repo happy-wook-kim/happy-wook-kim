@@ -31,4 +31,16 @@
 - 디지털 미술 교육 플랫폼
 - 플랫폼 백오피스 기술 개발
 
+>[FIET Bizadmin](https://bizadmin.fiet.net/)
+-
+
+>[FIET Loop Shop](https://loop.fiet.net/)
+- 
+
+<!-- >[FIET Miracle21 Shop](https://miracle21.fiet.net/)
+- -->
+
+
+
+
 <!-- **happy-wook-kim/happy-wook-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
