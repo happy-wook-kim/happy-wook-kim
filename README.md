@@ -32,13 +32,16 @@
 - 플랫폼 백오피스 기술 개발
 
 >[FIET Bizadmin](https://bizadmin.fiet.net/)
--
+- 쥬비스 B2B2C 관리 백오피스
+- 1:1 상담 관리 / 채팅
+- 핏클럽 단체 채팅
+- 인모션 진단 차트 및 다국어 언어팩 관리
 
 >[FIET Loop Shop](https://loop.fiet.net/)
-- 
+- 룹 상품 판매 사이트
 
 <!-- >[FIET Miracle21 Shop](https://miracle21.fiet.net/)
-- -->
+- 미러클21 상품 판매 사이트 -->
 
 
 
