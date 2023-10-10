@@ -4,15 +4,15 @@
 **Service Founder**  
 
 >[밴픽 시뮬레이터](https://www.banpick.kr)  
-- 롤 밴픽 시뮬레이터
+- 롤 밴픽 시뮬레이터 (Lit)
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
 
 >[추천식당](https://chu.banpick.kr)  
-- 근처 식당 추천 서비스
+- 근처 식당 추천 서비스 (React)
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
 
 >[프리즈](https://drive.google.com/file/d/1coZhAECJ-jWcdyveVooiCOWWWG-ZNgPH/view?usp=share_link)  
-- 시선추적 하이퍼 캐쥬얼 게임
+- 시선추적 하이퍼 캐쥬얼 게임 (Unity)
 - 기획 / 전체 UI 개발 / 인터페이스 로직 개발  
 
 
@@ -24,24 +24,24 @@
 **Engineer**  
 
 >[광고 효과 측정](http://addd.co.kr/document/tech)
-- 지하철 CCTV 영상 속 광고 시청자들의 성별&나이 예측 AI모델
+- 지하철 CCTV 영상 속 광고 시청자들의 성별&나이 예측 AI모델 (Pytorch)
 - 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습  
 
 >[아트봉봉](https://bonbon.art/)
-- 디지털 미술 교육 플랫폼
+- 디지털 미술 교육 플랫폼 (Nuxt)
 - 플랫폼 백오피스 기술 개발
 
 >[FIET Bizadmin](https://bizadmin.fiet.net/)
-- 쥬비스 B2B2C 관리 백오피스
+- 쥬비스 B2B2C 관리 백오피스 (Vue)
 - 1:1 상담 관리 / 채팅
 - 핏클럽 단체 채팅
 - 인모션 진단 차트 및 다국어 언어팩 관리
 
 >[FIET Loop Shop](https://loop.fiet.net/)
-- 룹 상품 판매 사이트
+- 룹 상품 판매 사이트 (Vue)
 
 <!-- >[FIET Miracle21 Shop](https://miracle21.fiet.net/)
-- 미러클21 상품 판매 사이트 -->
+- 미러클21 상품 판매 사이트 (Vue) -->
 
 
 
