@@ -8,7 +8,7 @@
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
 
 >[추천식당](https://chu.banpick.kr)  
-- 근처 식당 추천 서비스 (React)
+- 근처 식당 추천 서비스 ([React](https://react.dev/))
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
 
 >[프리즈](https://drive.google.com/file/d/1coZhAECJ-jWcdyveVooiCOWWWG-ZNgPH/view?usp=share_link)  
