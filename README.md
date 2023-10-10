@@ -4,7 +4,7 @@
 **Service Founder**  
 
 >[밴픽 시뮬레이터](https://www.banpick.kr)  
-- 롤 밴픽 시뮬레이터 ([Lit]((https://lit.dev/))
+- 롤 밴픽 시뮬레이터 [Lit]((https://lit.dev/)
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
 
 >[추천식당](https://chu.banpick.kr)  
