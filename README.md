@@ -1,6 +1,7 @@
 ### CTO를 지향하는 개발자 입니다
-[블로그](https://catdog6210.tistory.com)
 ---
+[블로그](https://catdog6210.tistory.com)
+
 **Service Founder**  
 
 >[밴픽 시뮬레이터](https://www.banpick.kr)  
