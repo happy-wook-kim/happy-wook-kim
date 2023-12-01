@@ -40,7 +40,7 @@
 
 >[FIET Loop Shop](https://loop.fiet.net/) & [FIET Miracle Shop](https://miracle21.fiet.net/order)
 - 룹 상품 판매 사이트 ([Vue](https://vuejs.org/))
-
+https://miracle21.fiet.net/order
 ---
 [블로그](https://catdog6210.tistory.com)
 
