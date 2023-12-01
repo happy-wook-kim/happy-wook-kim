@@ -1,9 +1,9 @@
 ### CTO를 지향하는 개발자 입니다
 
-[블로그](https://catdog6210.tistory.com)
+[![LYNMP 로고](https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico)](https://catdog6210.tistory.com)
 
 ---
-
+https://t1.daumcdn.net/tistory_admin/top_v2/tistory-apple-touch-favicon.png
 
 **Service Founder**  
 
