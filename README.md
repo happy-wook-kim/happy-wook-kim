@@ -1,5 +1,5 @@
 ### CTO를 지향하는 개발자 입니다
-
+[블로그](https://catdog6210.tistory.com)
 ---
 **Service Founder**  
 
@@ -41,8 +41,6 @@
 >[FIET Loop Shop](https://loop.fiet.net/) & [FIET Miracle Shop](https://miracle21.fiet.net/order)
 - 룹 상품 & 미러클 21 상품 판매 사이트 ([Vue](https://vuejs.org/))
 
----
-[블로그](https://catdog6210.tistory.com)
 
 <!-- >[FIET Miracle21 Shop](https://miracle21.fiet.net/)
 - 미러클21 상품 판매 사이트 ([Vue](https://vuejs.org/)) -->
