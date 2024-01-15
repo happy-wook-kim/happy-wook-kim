@@ -10,6 +10,8 @@
 - 롤 밴픽 시뮬레이터 ([Lit](https://lit.dev/) / [TypeScript](https://www.typescriptlang.org/))
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
 
+>[룰렛](https://jw.banpick.kr)
+
 >[추천식당](https://chu.banpick.kr)  
 - 근처 식당 추천 서비스 ([React](https://react.dev/))
 - 아이디어 제공 / 기획 / 프론트엔드 개발 / 웹 서버 관리
