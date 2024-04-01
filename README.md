@@ -36,14 +36,13 @@
 - 디지털 미술 교육 플랫폼 ([Nuxt](https://nuxt.com/))
 - 플랫폼 백오피스 기술 개발
 
->[FIET Bizadmin](https://bizadmin.fiet.net/)
-- 쥬비스 B2B2C 관리 백오피스 ([Vue](https://vuejs.org/))
-- 1:1 상담 관리 / 채팅
-- 상품별 알맞은 정보를 차트로 제공
-- 핏클럽 단체 채팅
-- 인모션 진단 차트 및 다국어 언어팩 관리
+>[FIET Bizadmin](https://partner.fiet.net/)
+- 피에트 파트너를 위한 인모션진단 결과 조회 및 회원관리 백오피스 개발 ([Vue](https://vuejs.org/))
+- 1:1 상담 관리 / 그룹채팅 기능 개발
+- 진단별(근기능/ROM) 정보를 차트로 제공(apexchart.js / chart.js)
+- 다국어 언어팩 관리 (vue-i18n)
 
->[FIET Loop Shop](https://loop.fiet.net/) & [FIET Miracle Shop](https://miracle21.fiet.net/order)
+>[FIET Loop Shop](https://loop.fiet.net/)
 - 룹 상품 & 미러클 21 상품 판매 사이트 ([Vue](https://vuejs.org/))
 
 
