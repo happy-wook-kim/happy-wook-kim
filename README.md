@@ -28,28 +28,27 @@
 ---
 **Engineer**  
 
->[광고 효과 측정](http://addd.co.kr/document/tech)
-- 지하철 CCTV 영상 속 광고 시청자들의 성별&나이 예측 AI모델 ([PyTorch](https://pytorch.org/))
-- 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습  
-
->[아트봉봉](https://bonbon.art/)
-- 디지털 미술 교육 플랫폼 ([Nuxt](https://nuxt.com/))
-- 플랫폼 백오피스 기술 개발
-
->[FIET Bizadmin](https://partner.fiet.net/)
+>[FIET Partner](https://partner.fiet.net/)
 - 피에트 파트너를 위한 인모션진단 결과 조회 및 회원관리 백오피스 개발 ([Vue](https://vuejs.org/))
 - 1:1 상담 관리 / 그룹채팅 기능 개발
 - 진단별(근기능/ROM) 정보를 차트로 제공(apexchart.js / chart.js)
 - 다국어 언어팩 관리 (vue-i18n)
 
+>[광고 효과 측정](http://addd.co.kr/document/tech)
+- 지하철 CCTV 영상 속 광고 시청자들의 성별&나이 예측 AI모델 ([PyTorch](https://pytorch.org/))
+- 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습
+
+>[FIET Homepage](https://www.fiet.net/)
+- 공식 홈페이지 개발 ([Nuxt](https://nuxt.com/))
+- 관련 기사 게시글마다 SEO 적용 (<Head> 활용)
+- 다국어 언어팩 관리 (vue-i18n)
+
+>[아트봉봉](https://bonbon.art/)
+- 디지털 미술 교육 플랫폼 ([Nuxt](https://nuxt.com/))
+- 플랫폼 백오피스 기술 개발
+
 >[FIET Loop Shop](https://loop.fiet.net/)
 - 룹 상품 & 미러클 21 상품 판매 사이트 ([Vue](https://vuejs.org/))
-
-
-<!-- >[FIET Miracle21 Shop](https://miracle21.fiet.net/)
-- 미러클21 상품 판매 사이트 ([Vue](https://vuejs.org/)) -->
-
-
 
 
 <!-- **happy-wook-kim/happy-wook-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
