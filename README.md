@@ -1,4 +1,4 @@
-### CTO를 지향하는 개발자 입니다
+### 가치를 개발하는 개발자 입니다
 
 [![티스토리 로고](https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico)](https://catdog6210.tistory.com)
 
