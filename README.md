@@ -47,8 +47,8 @@
 - 디지털 미술 교육 플랫폼 ([Nuxt](https://nuxt.com/))
 - 플랫폼 백오피스 기술 개발
 
->[FIET Loop Shop](https://loop.fiet.net/)
-- 룹 상품 & 미러클 21 상품 판매 사이트 ([Vue](https://vuejs.org/))
+>~~[FIET Loop Shop](https://loop.fiet.net/)~~
+~~- 룹 상품 & 미러클 21 상품 판매 사이트 ([Vue](https://vuejs.org/))~~
 
 
 <!-- **happy-wook-kim/happy-wook-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
