@@ -1,6 +1,6 @@
 ### 가치를 개발하는 개발자 입니다
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/happy-wook-kim/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-wook-kim)](https://github.com/happy-wook-kim/github-readme-stats)
 
 [![티스토리 로고](https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico)](https://catdog6210.tistory.com)
 
