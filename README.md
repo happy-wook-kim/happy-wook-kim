@@ -43,7 +43,7 @@
 - 디지털 미술 교육 플랫폼 ([Nuxt](https://nuxt.com/))
 - 플랫폼 백오피스 기술 개발
 
->[광고 효과 측정](http://addd.co.kr/document/tech)
+>[광고 효과 측정](https://addd.co.kr//page/technology)
 - 지하철 CCTV 영상 속 광고 시청자들의 성별&나이 예측 AI모델 ([PyTorch](https://pytorch.org/))
 - 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습
 
