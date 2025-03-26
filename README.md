@@ -1,6 +1,10 @@
-### 가치를 개발하는 개발자 입니다
+![happy-wook-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-wook-kim&show_icons=true&theme=dark)
 
-[![티스토리 로고](https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico)](https://catdog6210.tistory.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=monologue27)](https://solved.ac/monologue27)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-wook-kim&theme=dark)
+
+ [![티스토리 로고](https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico)](https://catdog6210.tistory.com) 
 
 ---
 
@@ -45,6 +49,6 @@
 
 >[광고 효과 측정](https://addd.co.kr//page/technology)
 - 영상 속 사람들의 성별&나이 예측 AI모델 ([PyTorch](https://pytorch.org/))
-- 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습
+- 영상에서 커스텀 데이터 셋 추출 / 커스텀 데이터 셋 학습 -->
 
 <!-- **happy-wook-kim/happy-wook-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
