@@ -2,9 +2,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=monologue27)](https://solved.ac/monologue27)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-wook-kim&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happy-wook-kim&theme=dark&layout=donut)
 
- [![티스토리 로고](https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico)](https://catdog6210.tistory.com) 
+ <!-- [![티스토리 로고](https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico)](https://catdog6210.tistory.com) 
 
 ---
 
